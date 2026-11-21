@@ -1,5 +1,8 @@
 # JavaLabThree
 
+Файл:
+[lab3_java (1).pdf](https://github.com/user-attachments/files/35209139/lab3_java.1.pdf)
+
 
 ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ.
 ПАКЕТЫ.
